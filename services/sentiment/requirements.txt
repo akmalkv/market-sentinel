@@ -1,0 +1,5 @@
+feedparser
+vaderSentiment
+psycopg2-binary
+requests
+
